@@ -17,5 +17,5 @@ Projeto de análise de dados *End-to-End* do Clube de Regatas do Flamengo nas ca
 2. **Tratamento:** Limpeza e conversão dos dados brutos recebidos em formato JSON.
 3. **Carga (EtL):** Inserção e atualização relacional (`ON CONFLICT DO UPDATE`) na tabela do PostgreSQL.
 4. **Visualização:** Conexão do Power BI para análise de métricas de desempenho.
-5. 
+   
 ![Dashboard Power BI](power%20bi%20flamengo.jpg)
